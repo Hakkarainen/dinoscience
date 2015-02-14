@@ -1,0 +1,2 @@
+# dinoscience
+Analytics in R
