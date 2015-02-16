@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>0792F748-C189-4DD9-8E05-63589D0453E3</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Xcodetest-thy1</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>6996364CFD351B972C2FCC069BFB0286A4031D7F</key>
+		<string>https://github.com/Hakkarainen/dinoscience.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Xcodetest-thy1.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>6996364CFD351B972C2FCC069BFB0286A4031D7F</key>
+		<string>..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/Hakkarainen/dinoscience.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>6996364CFD351B972C2FCC069BFB0286A4031D7F</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>6996364CFD351B972C2FCC069BFB0286A4031D7F</string>
+			<key>IDESourceControlWCCName</key>
+			<string>dinoscience</string>
+		</dict>
+	</array>
+</dict>
+</plist>
